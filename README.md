@@ -1,9 +1,8 @@
-사용했던 유용한 프로그램
+I'm going to write a personal review of the things I used here.
 
-
-형식
-- 프로그램 이름
-- 설명
-- 장점
-- 단점
-- 점수(10점 만점, 다른 것과 비교하여 점수 책정)
+The content consists of the following
+name : 
+description :
+good :
+bad :
+things to do : 
