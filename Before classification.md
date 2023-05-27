@@ -1,5 +1,4 @@
 docker
-z3
 https://themefisher.com/products/revolve
 https://shields.io/
 opencv
