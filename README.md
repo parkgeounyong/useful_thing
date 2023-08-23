@@ -9,3 +9,7 @@
 |bad||
 |things to do| |
 
+
+공부할 내용
+java.lang.reflect(클래스 내용 가지고 오기)
+aws 자바-그라비톤
